@@ -1,5 +1,0 @@
-Garbage Monitoring System
-
-The detection, monitoring and management of wastes is one of the primary problems of the present era. The traditional way of manually monitoring the wastes in waste bins is a cumbersome process and utilizes more human effort, time and cost which can easily be avoided with our present technologies.
-
-One idea is to automate this by using ultrasonic sensors to measure the level of garbage and use a WiFi module to transmit real time data of the garbage amount. The Wifi module can also be used to send automatic mails in case they haven't been cleared. 
