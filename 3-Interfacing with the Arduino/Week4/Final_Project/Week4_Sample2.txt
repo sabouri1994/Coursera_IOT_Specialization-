@@ -1,0 +1,3 @@
+Home automation using arduino
+
+All the appliances can ve remotely tracked and controlled with the help of arduino and a wifi shield. A node mcu can be used as a wifi shield to control the appliances in home such as lights and ac remotely from anywhere. The appliances can be configured to collect data regularly and send it to a server which can be accessed using internet at anytime. Timers and light sensors can be used to track the usage of these appliancces and notify the user to achieve power consumption. The user can also be notified about the servicing requirements of certain appliances.

@@ -1,0 +1,7 @@
+In this project, the goal is to connect the building heating system to the Internet and mobile applications.
+
+To implement this project, we need a wifi shield that can connect the Arduino to a modem connected to the Internet - we also need a web service with a specific domain to which we can send and receive hardware information. .
+
+In addition, we need a driver-based hardware (electronic relay) to connect to and control the heating system - we receive temperature information using a temperature sensor. (lm35)
+
+We can also design a mobile application and receive the temperature information of the building that was previously sent to the web service and display it on the mobile phone and control the heating system of the building through co-application.
