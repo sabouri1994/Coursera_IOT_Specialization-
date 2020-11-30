@@ -1,6 +1,7 @@
 # Introduction to the Internet of Things and Embedded Systems
 # by University of California, Irvine
-%-----------------------------------------
+
+-----------------------------------------
 
 # About this Course
 
