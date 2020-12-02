@@ -1,7 +1,7 @@
 
 # Coursera_IOT_Specialization-Coursera's Introduction to Programming the Internet of Things (IOT) Specialization 
 
-# 2020
+# September 2020
 
 # About this Specialization
 
