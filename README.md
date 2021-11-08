@@ -2,6 +2,8 @@
 # Coursera_IOT_Specialization-Coursera's Introduction to Programming the Internet of Things (IOT) Specialization 
 
 # September 2020
+[![Last commit](https://img.shields.io/github/last-commit/sabouri1994/Coursera_IOT_Specialization-.svg?maxAge=1800)](https://github.com/sabouri1994/Coursera_IOT_Specialization-/commits/main)
+[![Stars](https://img.shields.io/github/stars/sabouri1994/Coursera_IOT_Specialization-.svg)](#)<br><hr>
 
 # About this Specialization
 
